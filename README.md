@@ -28,6 +28,3 @@ h1 align="center">Hi 👋, I'm Khaled Ashraf</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oufa2217&show_icons=true&locale=en&layout=compact" alt="oufa2217" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oufa2217&show_icons=true&locale=en" alt="oufa2217" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oufa2217&" alt="oufa2217" /></p>
